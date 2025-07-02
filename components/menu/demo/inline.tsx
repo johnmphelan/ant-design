@@ -13,7 +13,7 @@ const items: MenuItem[] = [
     children: [
       {
         key: 'g1',
-        label: 'Item 1',
+        label: 'Manage',
         type: 'group',
         children: [
           { key: '1', label: 'Option 1' },
